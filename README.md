@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shahreyart38896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahreyart38896" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/shahreyar-tonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md mubtashim shahreyar tonmoy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shahreyar-tonmoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md mubtashim shahreyar tonmoy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23047132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23047132" height="30" width="40" /></a>
 <a href="https://fb.com/shahreyar tonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahreyar tonmoy" height="30" width="40" /></a>
 <a href="https://instagram.com/shahreyar.tonmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahreyar.tonmoy" height="30" width="40" /></a>
