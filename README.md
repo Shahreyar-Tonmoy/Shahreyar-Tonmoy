@@ -1,12 +1,10 @@
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://www.facebook.com/profile.php?id=100019141502263)
-<h1>Hi, I'm Shahreyar-Tonmoy</h1>
+<h1>Hi, I'm Md Mubtashim Shahreyar Tonmoy</h1>
 <h3>I am a junior web developer (MERN). I can build up websides and make it fully fuctional and i always try to keep up with new technology</h3>
 <h3>A passionate frontend developer from Joypurhat,Bangladesh</h3>
 
 <h1 align="center">Current overview</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahreyar-tonmoy&label=Profile%20views&color=0e75b6&style=flat" alt="shahreyar-tonmoy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shahreyart38896" target="blank"><img src="https://img.shields.io/twitter/follow/shahreyart38896?logo=twitter&style=for-the-badge" alt="shahreyart38896" /></a> </p>
 
 - 🔭 I’m currently working on [BuildSync Hub](https://comfy-eclair-fabcdd.netlify.app/)
 
@@ -15,7 +13,11 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **Shahreyartonmoy001@gmail.com**
-- 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahreyar-tonmoy&label=Profile%20views&color=0e75b6&style=flat" alt="shahreyar-tonmoy" /> </p>
+
+<p align="left"> <a href="https://twitter.com/shahreyart38896" target="blank"><img src="https://img.shields.io/twitter/follow/shahreyart38896?logo=twitter&style=for-the-badge" alt="shahreyart38896" /></a> </p>
+  
 <h1 align="center">Reach me out</h1>
 
 <p align="center">
