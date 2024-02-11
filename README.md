@@ -1,7 +1,7 @@
-[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://www.facebook.com/profile.php?id=100019141502263)
+[![MasterHead](https://raw.githubusercontent.com/Shahreyar-Tonmoy/Shahreyar-Tonmoy/main/Github.png)](https://www.facebook.com/profile.php?id=100019141502263)
 <h1>Hi, I'm Md Mubtashim Shahreyar Tonmoy</h1>
-<h3>I am a junior web developer (MERN). I can build up websides and make it fully fuctional and i always try to keep up with new technology</h3>
-<h3>A passionate frontend developer from Joypurhat,Bangladesh</h3>
+<h3>I am a junior web developer (MERN). I can build websites and make them fully fuctional and I always try to keep up with new technology</h3>
+<h3>A passionate frontend developer from Joypurhat, Bangladesh</h3>
 
 <h1 align="center">Current overview</h1>
 
